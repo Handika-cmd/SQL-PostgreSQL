@@ -36,8 +36,7 @@ and brand not in('IKEA', 'Philips');
 -- - Margin lebih dari 300.000.
 -- Tampilkan seluruh kolom produk.
 select * from dim_product where (category ='Elektronik' or category ='Perabot')
-and stock_qty < 100
-and margin > 300000;
+and (stock_qty < 100 or margin > 300000);
 
 -- Challenge 9 =================================
 -- Tim pemasaran ingin mencari produk dengan brand Nike atau Adidas, tetapi hanya produk yang:
