@@ -1,0 +1,301 @@
+product_id;product_name;category;brand;cost_price;selling_price;margin;stock_qty
+P001;Produk Minuman Nike 1;Minuman;Nike;182337;240379;58042;78
+P002;Produk Rumah Tangga Chitato 2;Rumah Tangga;Chitato;286985;352751;65766;301
+P003;Produk Minuman Wardah 3;Minuman;Wardah;341048;391259;50211;496
+P004;Produk Fashion Chitato 4;Fashion;Chitato;428127;533767;105640;150
+P005;Produk Snack Indomaret 5;Snack;Indomaret;481180;513405;32225;69
+P006;Produk Elektronik Xiaomi 6;Elektronik;Xiaomi;465571;530800;65229;248
+P007;Produk Kecantikan Chitato 7;Kecantikan;Chitato;110209;147111;36902;27
+P008;Produk Minuman Indomaret 8;Minuman;Indomaret;245917;331752;85835;29
+P009;Produk Elektronik Samsung 9;Elektronik;Samsung;265027;391607;126580;362
+P010;Produk Kecantikan Aqua 10;Kecantikan;Aqua;338531;365559;27028;341
+P011;Produk Elektronik Nike 11;Elektronik;Nike;16997;105918;88921;307
+P012;Produk Fashion Wardah 12;Fashion;Wardah;222356;331336;108980;493
+P013;Produk Snack Indomaret 13;Snack;Indomaret;10577;159659;149082;498
+P014;Produk Fashion Indomaret 14;Fashion;Indomaret;296479;322500;26021;21
+P015;Produk Fashion Samsung 15;Fashion;Samsung;348536;460550;112014;391
+P016;Produk Snack Samsung 16;Snack;Samsung;496835;531710;34875;156
+P017;Produk Kecantikan Indomaret 17;Kecantikan;Indomaret;67074;104333;37259;119
+P018;Produk Rumah Tangga Aqua 18;Rumah Tangga;Aqua;117277;244846;127569;118
+P019;Produk Kecantikan Wardah 19;Kecantikan;Wardah;220085;256250;36165;457
+P020;Produk Fashion Emina 20;Fashion;Emina;204404;318912;114508;51
+P021;Produk Fashion Nike 21;Fashion;Nike;105581;211564;105983;308
+P022;Produk Fashion Aqua 22;Fashion;Aqua;161832;165067;3235;499
+P023;Produk Rumah Tangga Aqua 23;Rumah Tangga;Aqua;155951;300495;144544;386
+P024;Produk Snack Emina 24;Snack;Emina;69546;209350;139804;170
+P025;Produk Snack Nike 25;Snack;Nike;61640;94974;33334;371
+P026;Produk Elektronik Indomaret 26;Elektronik;Indomaret;280832;298956;18124;485
+P027;Produk Minuman Aqua 27;Minuman;Aqua;351352;418425;67073;380
+P028;Produk Elektronik Xiaomi 28;Elektronik;Xiaomi;311074;417172;106098;118
+P029;Produk Minuman Chitato 29;Minuman;Chitato;107642;169096;61454;258
+P030;Produk Elektronik Aqua 30;Elektronik;Aqua;291427;342857;51430;140
+P031;Produk Elektronik Nike 31;Elektronik;Nike;82391;143901;61510;167
+P032;Produk Elektronik Samsung 32;Elektronik;Samsung;448610;528400;79790;427
+P033;Produk Fashion Emina 33;Fashion;Emina;82758;155252;72494;153
+P034;Produk Fashion Nike 34;Fashion;Nike;175106;191366;16260;208
+P035;Produk Kecantikan Chitato 35;Kecantikan;Chitato;412849;491506;78657;364
+P036;Produk Fashion Wardah 36;Fashion;Wardah;288797;423434;134637;424
+P037;Produk Minuman Aqua 37;Minuman;Aqua;170104;250050;79946;49
+P038;Produk Kecantikan Indomaret 38;Kecantikan;Indomaret;475086;523085;47999;284
+P039;Produk Snack Emina 39;Snack;Emina;347747;427709;79962;127
+P040;Produk Rumah Tangga Xiaomi 40;Rumah Tangga;Xiaomi;383592;399953;16361;161
+P041;Produk Snack Aqua 41;Snack;Aqua;377875;392112;14237;258
+P042;Produk Fashion Wardah 42;Fashion;Wardah;32082;144439;112357;41
+P043;Produk Rumah Tangga Aqua 43;Rumah Tangga;Aqua;417490;491857;74367;321
+P044;Produk Snack Xiaomi 44;Snack;Xiaomi;393247;431595;38348;441
+P045;Produk Snack Wardah 45;Snack;Wardah;159265;186395;27130;330
+P046;Produk Elektronik Wardah 46;Elektronik;Wardah;42614;67743;25129;150
+P047;Produk Snack Indomaret 47;Snack;Indomaret;354815;497222;142407;369
+P048;Produk Rumah Tangga Samsung 48;Rumah Tangga;Samsung;197578;244816;47238;26
+P049;Produk Rumah Tangga Samsung 49;Rumah Tangga;Samsung;165402;206471;41069;395
+P050;Produk Rumah Tangga Chitato 50;Rumah Tangga;Chitato;429134;448187;19053;462
+P051;Produk Fashion Samsung 51;Fashion;Samsung;60841;163562;102721;206
+P052;Produk Elektronik Aqua 52;Elektronik;Aqua;32933;178437;145504;338
+P053;Produk Kecantikan Emina 53;Kecantikan;Emina;37275;70544;33269;57
+P054;Produk Rumah Tangga Samsung 54;Rumah Tangga;Samsung;54547;75873;21326;497
+P055;Produk Minuman Emina 55;Minuman;Emina;402659;459692;57033;306
+P056;Produk Snack Chitato 56;Snack;Chitato;173034;321016;147982;11
+P057;Produk Snack Emina 57;Snack;Emina;436744;501555;64811;489
+P058;Produk Rumah Tangga Wardah 58;Rumah Tangga;Wardah;20476;134942;114466;107
+P059;Produk Elektronik Xiaomi 59;Elektronik;Xiaomi;151007;259768;108761;414
+P060;Produk Snack Indomaret 60;Snack;Indomaret;123381;136839;13458;215
+P061;Produk Elektronik Emina 61;Elektronik;Emina;226670;367007;140337;120
+P062;Produk Rumah Tangga Indomaret 62;Rumah Tangga;Indomaret;292515;404252;111737;256
+P063;Produk Kecantikan Xiaomi 63;Kecantikan;Xiaomi;288647;324063;35416;120
+P064;Produk Fashion Samsung 64;Fashion;Samsung;235691;353815;118124;86
+P065;Produk Fashion Aqua 65;Fashion;Aqua;237297;297848;60551;367
+P066;Produk Elektronik Xiaomi 66;Elektronik;Xiaomi;252317;388299;135982;159
+P067;Produk Fashion Indomaret 67;Fashion;Indomaret;351867;417098;65231;116
+P068;Produk Elektronik Chitato 68;Elektronik;Chitato;358377;369042;10665;410
+P069;Produk Minuman Samsung 69;Minuman;Samsung;442508;492984;50476;375
+P070;Produk Fashion Nike 70;Fashion;Nike;482132;539368;57236;321
+P071;Produk Fashion Xiaomi 71;Fashion;Xiaomi;455863;457852;1989;22
+P072;Produk Minuman Indomaret 72;Minuman;Indomaret;431885;575481;143596;321
+P073;Produk Minuman Chitato 73;Minuman;Chitato;81208;166152;84944;62
+P074;Produk Snack Chitato 74;Snack;Chitato;35171;143142;107971;261
+P075;Produk Fashion Emina 75;Fashion;Emina;138186;248110;109924;258
+P076;Produk Minuman Wardah 76;Minuman;Wardah;12759;68394;55635;194
+P077;Produk Elektronik Xiaomi 77;Elektronik;Xiaomi;385027;451343;66316;169
+P078;Produk Fashion Chitato 78;Fashion;Chitato;82583;191172;108589;318
+P079;Produk Minuman Xiaomi 79;Minuman;Xiaomi;264382;326544;62162;374
+P080;Produk Elektronik Indomaret 80;Elektronik;Indomaret;186129;294647;108518;174
+P081;Produk Kecantikan Emina 81;Kecantikan;Emina;51494;181811;130317;221
+P082;Produk Rumah Tangga Emina 82;Rumah Tangga;Emina;290305;342529;52224;485
+P083;Produk Minuman Chitato 83;Minuman;Chitato;475137;581705;106568;167
+P084;Produk Kecantikan Aqua 84;Kecantikan;Aqua;123760;237954;114194;95
+P085;Produk Snack Samsung 85;Snack;Samsung;224363;307620;83257;137
+P086;Produk Minuman Aqua 86;Minuman;Aqua;294503;405349;110846;382
+P087;Produk Rumah Tangga Indomaret 87;Rumah Tangga;Indomaret;327111;359900;32789;343
+P088;Produk Elektronik Samsung 88;Elektronik;Samsung;187267;252347;65080;332
+P089;Produk Kecantikan Aqua 89;Kecantikan;Aqua;53378;67287;13909;70
+P090;Produk Snack Emina 90;Snack;Emina;72563;100501;27938;140
+P091;Produk Elektronik Emina 91;Elektronik;Emina;343477;463205;119728;99
+P092;Produk Minuman Emina 92;Minuman;Emina;482594;586949;104355;57
+P093;Produk Minuman Samsung 93;Minuman;Samsung;229840;370644;140804;230
+P094;Produk Fashion Samsung 94;Fashion;Samsung;52304;82316;30012;259
+P095;Produk Elektronik Samsung 95;Elektronik;Samsung;222841;289004;66163;395
+P096;Produk Elektronik Xiaomi 96;Elektronik;Xiaomi;327287;442044;114757;397
+P097;Produk Snack Xiaomi 97;Snack;Xiaomi;10240;63362;53122;230
+P098;Produk Fashion Wardah 98;Fashion;Wardah;344363;430232;85869;49
+P099;Produk Fashion Emina 99;Fashion;Emina;269365;378647;109282;420
+P100;Produk Snack Samsung 100;Snack;Samsung;13812;109649;95837;328
+P101;Produk Minuman Indomaret 101;Minuman;Indomaret;304067;414614;110547;238
+P102;Produk Fashion Chitato 102;Fashion;Chitato;11573;66888;55315;105
+P103;Produk Kecantikan Indomaret 103;Kecantikan;Indomaret;408661;491616;82955;436
+P104;Produk Snack Xiaomi 104;Snack;Xiaomi;323903;338497;14594;286
+P105;Produk Minuman Nike 105;Minuman;Nike;30704;67793;37089;242
+P106;Produk Fashion Xiaomi 106;Fashion;Xiaomi;104991;161262;56271;402
+P107;Produk Kecantikan Chitato 107;Kecantikan;Chitato;17032;144836;127804;188
+P108;Produk Snack Emina 108;Snack;Emina;86613;191992;105379;480
+P109;Produk Minuman Xiaomi 109;Minuman;Xiaomi;168326;292841;124515;172
+P110;Produk Kecantikan Indomaret 110;Kecantikan;Indomaret;189529;247359;57830;172
+P111;Produk Minuman Samsung 111;Minuman;Samsung;418565;467966;49401;181
+P112;Produk Fashion Aqua 112;Fashion;Aqua;466543;566737;100194;289
+P113;Produk Fashion Aqua 113;Fashion;Aqua;347387;395650;48263;312
+P114;Produk Elektronik Nike 114;Elektronik;Nike;233633;370665;137032;54
+P115;Produk Kecantikan Samsung 115;Kecantikan;Samsung;349578;483908;134330;425
+P116;Produk Kecantikan Samsung 116;Kecantikan;Samsung;331292;453954;122662;337
+P117;Produk Kecantikan Indomaret 117;Kecantikan;Indomaret;75797;88904;13107;175
+P118;Produk Fashion Chitato 118;Fashion;Chitato;344609;389835;45226;319
+P119;Produk Elektronik Xiaomi 119;Elektronik;Xiaomi;64598;75921;11323;95
+P120;Produk Kecantikan Indomaret 120;Kecantikan;Indomaret;291885;381358;89473;254
+P121;Produk Rumah Tangga Emina 121;Rumah Tangga;Emina;56593;154356;97763;487
+P122;Produk Snack Indomaret 122;Snack;Indomaret;462865;517173;54308;482
+P123;Produk Kecantikan Indomaret 123;Kecantikan;Indomaret;179957;284717;104760;205
+P124;Produk Kecantikan Chitato 124;Kecantikan;Chitato;95063;110216;15153;236
+P125;Produk Kecantikan Wardah 125;Kecantikan;Wardah;273883;393665;119782;477
+P126;Produk Snack Nike 126;Snack;Nike;331334;402710;71376;411
+P127;Produk Minuman Samsung 127;Minuman;Samsung;328825;405770;76945;469
+P128;Produk Snack Emina 128;Snack;Emina;113865;241958;128093;99
+P129;Produk Snack Xiaomi 129;Snack;Xiaomi;168238;239019;70781;185
+P130;Produk Kecantikan Nike 130;Kecantikan;Nike;91318;100773;9455;173
+P131;Produk Minuman Aqua 131;Minuman;Aqua;173513;299130;125617;196
+P132;Produk Minuman Emina 132;Minuman;Emina;169131;279735;110604;341
+P133;Produk Kecantikan Xiaomi 133;Kecantikan;Xiaomi;26449;32882;6433;47
+P134;Produk Minuman Aqua 134;Minuman;Aqua;493888;503809;9921;316
+P135;Produk Fashion Emina 135;Fashion;Emina;180321;302008;121687;427
+P136;Produk Kecantikan Chitato 136;Kecantikan;Chitato;430395;486692;56297;332
+P137;Produk Fashion Emina 137;Fashion;Emina;483279;632312;149033;175
+P138;Produk Fashion Xiaomi 138;Fashion;Xiaomi;100277;154776;54499;481
+P139;Produk Snack Aqua 139;Snack;Aqua;306906;403599;96693;140
+P140;Produk Elektronik Indomaret 140;Elektronik;Indomaret;373039;382040;9001;122
+P141;Produk Rumah Tangga Xiaomi 141;Rumah Tangga;Xiaomi;76423;125745;49322;154
+P142;Produk Minuman Xiaomi 142;Minuman;Xiaomi;151730;236596;84866;291
+P143;Produk Minuman Nike 143;Minuman;Nike;189024;221299;32275;470
+P144;Produk Minuman Samsung 144;Minuman;Samsung;123505;222506;99001;290
+P145;Produk Elektronik Wardah 145;Elektronik;Wardah;339423;369363;29940;275
+P146;Produk Elektronik Samsung 146;Elektronik;Samsung;426469;538974;112505;404
+P147;Produk Rumah Tangga Wardah 147;Rumah Tangga;Wardah;287828;430675;142847;441
+P148;Produk Kecantikan Indomaret 148;Kecantikan;Indomaret;85038;127295;42257;48
+P149;Produk Kecantikan Samsung 149;Kecantikan;Samsung;145899;261292;115393;376
+P150;Produk Rumah Tangga Nike 150;Rumah Tangga;Nike;436069;531672;95603;294
+P151;Produk Fashion Nike 151;Fashion;Nike;301932;318830;16898;21
+P152;Produk Kecantikan Samsung 152;Kecantikan;Samsung;108842;171343;62501;51
+P153;Produk Minuman Chitato 153;Minuman;Chitato;373866;472728;98862;161
+P154;Produk Elektronik Samsung 154;Elektronik;Samsung;487695;510663;22968;102
+P155;Produk Rumah Tangga Aqua 155;Rumah Tangga;Aqua;226060;292263;66203;208
+P156;Produk Kecantikan Xiaomi 156;Kecantikan;Xiaomi;476256;624681;148425;55
+P157;Produk Fashion Xiaomi 157;Fashion;Xiaomi;112187;161470;49283;488
+P158;Produk Fashion Wardah 158;Fashion;Wardah;307496;382140;74644;105
+P159;Produk Kecantikan Nike 159;Kecantikan;Nike;320941;329020;8079;214
+P160;Produk Elektronik Samsung 160;Elektronik;Samsung;236876;338754;101878;204
+P161;Produk Rumah Tangga Aqua 161;Rumah Tangga;Aqua;408505;539566;131061;284
+P162;Produk Elektronik Xiaomi 162;Elektronik;Xiaomi;476366;566505;90139;375
+P163;Produk Fashion Indomaret 163;Fashion;Indomaret;474363;483690;9327;266
+P164;Produk Fashion Aqua 164;Fashion;Aqua;23549;73886;50337;207
+P165;Produk Fashion Wardah 165;Fashion;Wardah;258021;274805;16784;425
+P166;Produk Kecantikan Xiaomi 166;Kecantikan;Xiaomi;371045;482902;111857;380
+P167;Produk Rumah Tangga Samsung 167;Rumah Tangga;Samsung;134481;161166;26685;31
+P168;Produk Elektronik Chitato 168;Elektronik;Chitato;400493;411033;10540;479
+P169;Produk Kecantikan Indomaret 169;Kecantikan;Indomaret;71734;191372;119638;62
+P170;Produk Rumah Tangga Xiaomi 170;Rumah Tangga;Xiaomi;268950;276766;7816;296
+P171;Produk Snack Aqua 171;Snack;Aqua;214896;269349;54453;471
+P172;Produk Kecantikan Nike 172;Kecantikan;Nike;401133;516410;115277;137
+P173;Produk Kecantikan Samsung 173;Kecantikan;Samsung;158826;246932;88106;124
+P174;Produk Minuman Indomaret 174;Minuman;Indomaret;74750;122543;47793;424
+P175;Produk Rumah Tangga Xiaomi 175;Rumah Tangga;Xiaomi;200283;268217;67934;220
+P176;Produk Fashion Indomaret 176;Fashion;Indomaret;288263;365631;77368;336
+P177;Produk Minuman Xiaomi 177;Minuman;Xiaomi;388417;509598;121181;271
+P178;Produk Rumah Tangga Xiaomi 178;Rumah Tangga;Xiaomi;384890;449867;64977;439
+P179;Produk Fashion Wardah 179;Fashion;Wardah;184799;288583;103784;175
+P180;Produk Elektronik Chitato 180;Elektronik;Chitato;415575;430440;14865;135
+P181;Produk Rumah Tangga Xiaomi 181;Rumah Tangga;Xiaomi;483313;605791;122478;129
+P182;Produk Fashion Indomaret 182;Fashion;Indomaret;278347;352506;74159;204
+P183;Produk Rumah Tangga Emina 183;Rumah Tangga;Emina;463525;496704;33179;291
+P184;Produk Kecantikan Chitato 184;Kecantikan;Chitato;347515;394159;46644;293
+P185;Produk Fashion Aqua 185;Fashion;Aqua;302487;424617;122130;313
+P186;Produk Rumah Tangga Aqua 186;Rumah Tangga;Aqua;370646;384810;14164;483
+P187;Produk Rumah Tangga Aqua 187;Rumah Tangga;Aqua;86179;95213;9034;374
+P188;Produk Rumah Tangga Nike 188;Rumah Tangga;Nike;228702;350726;122024;467
+P189;Produk Elektronik Xiaomi 189;Elektronik;Xiaomi;465316;484189;18873;344
+P190;Produk Snack Emina 190;Snack;Emina;75629;199173;123544;355
+P191;Produk Minuman Aqua 191;Minuman;Aqua;244802;271567;26765;293
+P192;Produk Rumah Tangga Emina 192;Rumah Tangga;Emina;481945;592648;110703;496
+P193;Produk Snack Xiaomi 193;Snack;Xiaomi;421040;468746;47706;377
+P194;Produk Rumah Tangga Emina 194;Rumah Tangga;Emina;492116;545446;53330;321
+P195;Produk Fashion Xiaomi 195;Fashion;Xiaomi;321365;387342;65977;337
+P196;Produk Kecantikan Nike 196;Kecantikan;Nike;468932;529749;60817;226
+P197;Produk Minuman Indomaret 197;Minuman;Indomaret;265816;366152;100336;61
+P198;Produk Kecantikan Nike 198;Kecantikan;Nike;163530;271619;108089;77
+P199;Produk Fashion Xiaomi 199;Fashion;Xiaomi;109409;132045;22636;212
+P200;Produk Snack Samsung 200;Snack;Samsung;231151;236382;5231;130
+P201;Produk Kecantikan Nike 201;Kecantikan;Nike;459214;477651;18437;114
+P202;Produk Elektronik Aqua 202;Elektronik;Aqua;48458;68258;19800;490
+P203;Produk Elektronik Nike 203;Elektronik;Nike;426567;486526;59959;220
+P204;Produk Fashion Nike 204;Fashion;Nike;375484;390340;14856;94
+P205;Produk Snack Xiaomi 205;Snack;Xiaomi;482979;540371;57392;303
+P206;Produk Snack Aqua 206;Snack;Aqua;467013;496767;29754;196
+P207;Produk Elektronik Chitato 207;Elektronik;Chitato;218815;240669;21854;148
+P208;Produk Elektronik Chitato 208;Elektronik;Chitato;455505;481903;26398;451
+P209;Produk Fashion Indomaret 209;Fashion;Indomaret;477670;568432;90762;185
+P210;Produk Kecantikan Indomaret 210;Kecantikan;Indomaret;247358;283764;36406;110
+P211;Produk Snack Aqua 211;Snack;Aqua;437474;454054;16580;478
+P212;Produk Elektronik Xiaomi 212;Elektronik;Xiaomi;352516;459977;107461;130
+P213;Produk Rumah Tangga Nike 213;Rumah Tangga;Nike;281645;340224;58579;216
+P214;Produk Fashion Aqua 214;Fashion;Aqua;493885;567807;73922;72
+P215;Produk Elektronik Indomaret 215;Elektronik;Indomaret;427570;525797;98227;343
+P216;Produk Fashion Nike 216;Fashion;Nike;14039;160775;146736;105
+P217;Produk Rumah Tangga Samsung 217;Rumah Tangga;Samsung;312264;409281;97017;169
+P218;Produk Snack Nike 218;Snack;Nike;363153;481085;117932;56
+P219;Produk Snack Nike 219;Snack;Nike;413395;489733;76338;253
+P220;Produk Minuman Xiaomi 220;Minuman;Xiaomi;20144;86127;65983;62
+P221;Produk Elektronik Emina 221;Elektronik;Emina;40046;104513;64467;37
+P222;Produk Snack Xiaomi 222;Snack;Xiaomi;371489;504440;132951;447
+P223;Produk Snack Indomaret 223;Snack;Indomaret;86115;203960;117845;225
+P224;Produk Snack Emina 224;Snack;Emina;156404;233193;76789;257
+P225;Produk Rumah Tangga Xiaomi 225;Rumah Tangga;Xiaomi;210784;212068;1284;280
+P226;Produk Minuman Emina 226;Minuman;Emina;70724;107075;36351;469
+P227;Produk Minuman Nike 227;Minuman;Nike;158284;241472;83188;39
+P228;Produk Snack Aqua 228;Snack;Aqua;440164;459357;19193;25
+P229;Produk Elektronik Samsung 229;Elektronik;Samsung;402143;407110;4967;190
+P230;Produk Elektronik Nike 230;Elektronik;Nike;56558;152865;96307;71
+P231;Produk Elektronik Indomaret 231;Elektronik;Indomaret;229250;347058;117808;192
+P232;Produk Fashion Aqua 232;Fashion;Aqua;27588;81344;53756;362
+P233;Produk Rumah Tangga Indomaret 233;Rumah Tangga;Indomaret;293414;389797;96383;432
+P234;Produk Kecantikan Aqua 234;Kecantikan;Aqua;208780;346511;137731;282
+P235;Produk Fashion Nike 235;Fashion;Nike;454827;472257;17430;137
+P236;Produk Elektronik Emina 236;Elektronik;Emina;424760;487696;62936;335
+P237;Produk Fashion Wardah 237;Fashion;Wardah;179880;292765;112885;285
+P238;Produk Snack Aqua 238;Snack;Aqua;366123;440746;74623;340
+P239;Produk Snack Nike 239;Snack;Nike;118251;161655;43404;335
+P240;Produk Rumah Tangga Nike 240;Rumah Tangga;Nike;401631;448746;47115;486
+P241;Produk Rumah Tangga Aqua 241;Rumah Tangga;Aqua;474422;550498;76076;28
+P242;Produk Fashion Samsung 242;Fashion;Samsung;158745;265625;106880;487
+P243;Produk Minuman Samsung 243;Minuman;Samsung;376300;426411;50111;486
+P244;Produk Minuman Emina 244;Minuman;Emina;148649;264621;115972;150
+P245;Produk Minuman Samsung 245;Minuman;Samsung;47512;65489;17977;34
+P246;Produk Fashion Indomaret 246;Fashion;Indomaret;265956;318873;52917;83
+P247;Produk Elektronik Aqua 247;Elektronik;Aqua;42167;164330;122163;288
+P248;Produk Rumah Tangga Xiaomi 248;Rumah Tangga;Xiaomi;347433;388566;41133;439
+P249;Produk Fashion Indomaret 249;Fashion;Indomaret;118408;181496;63088;13
+P250;Produk Elektronik Xiaomi 250;Elektronik;Xiaomi;29769;175777;146008;148
+P251;Produk Elektronik Indomaret 251;Elektronik;Indomaret;378479;501621;123142;240
+P252;Produk Fashion Nike 252;Fashion;Nike;488864;546232;57368;442
+P253;Produk Fashion Indomaret 253;Fashion;Indomaret;315367;413452;98085;41
+P254;Produk Elektronik Aqua 254;Elektronik;Aqua;493556;498831;5275;110
+P255;Produk Rumah Tangga Nike 255;Rumah Tangga;Nike;9361;134768;125407;246
+P256;Produk Minuman Emina 256;Minuman;Emina;146918;152710;5792;32
+P257;Produk Kecantikan Chitato 257;Kecantikan;Chitato;110421;219433;109012;107
+P258;Produk Elektronik Samsung 258;Elektronik;Samsung;432015;538276;106261;386
+P259;Produk Kecantikan Xiaomi 259;Kecantikan;Xiaomi;298204;357481;59277;463
+P260;Produk Minuman Nike 260;Minuman;Nike;284940;434469;149529;258
+P261;Produk Rumah Tangga Chitato 261;Rumah Tangga;Chitato;307898;373179;65281;115
+P262;Produk Rumah Tangga Indomaret 262;Rumah Tangga;Indomaret;261783;410773;148990;142
+P263;Produk Minuman Aqua 263;Minuman;Aqua;310555;417929;107374;387
+P264;Produk Elektronik Chitato 264;Elektronik;Chitato;409359;454022;44663;477
+P265;Produk Kecantikan Chitato 265;Kecantikan;Chitato;362170;436119;73949;315
+P266;Produk Elektronik Xiaomi 266;Elektronik;Xiaomi;143487;255860;112373;177
+P267;Produk Minuman Aqua 267;Minuman;Aqua;488943;494638;5695;69
+P268;Produk Minuman Indomaret 268;Minuman;Indomaret;276612;324157;47545;233
+P269;Produk Kecantikan Samsung 269;Kecantikan;Samsung;126817;159855;33038;109
+P270;Produk Elektronik Nike 270;Elektronik;Nike;43314;54141;10827;345
+P271;Produk Minuman Samsung 271;Minuman;Samsung;444670;523734;79064;405
+P272;Produk Rumah Tangga Aqua 272;Rumah Tangga;Aqua;215054;309638;94584;363
+P273;Produk Snack Chitato 273;Snack;Chitato;369757;401840;32083;359
+P274;Produk Fashion Samsung 274;Fashion;Samsung;142194;265318;123124;486
+P275;Produk Kecantikan Chitato 275;Kecantikan;Chitato;402132;471757;69625;102
+P276;Produk Fashion Wardah 276;Fashion;Wardah;29830;105426;75596;35
+P277;Produk Rumah Tangga Indomaret 277;Rumah Tangga;Indomaret;159961;194179;34218;215
+P278;Produk Elektronik Samsung 278;Elektronik;Samsung;171829;217727;45898;29
+P279;Produk Fashion Xiaomi 279;Fashion;Xiaomi;40518;41583;1065;453
+P280;Produk Minuman Samsung 280;Minuman;Samsung;12777;64635;51858;25
+P281;Produk Minuman Aqua 281;Minuman;Aqua;224216;306910;82694;90
+P282;Produk Rumah Tangga Emina 282;Rumah Tangga;Emina;105099;218502;113403;313
+P283;Produk Fashion Chitato 283;Fashion;Chitato;12067;138837;126770;332
+P284;Produk Minuman Samsung 284;Minuman;Samsung;102112;107816;5704;490
+P285;Produk Minuman Samsung 285;Minuman;Samsung;15251;106669;91418;486
+P286;Produk Rumah Tangga Nike 286;Rumah Tangga;Nike;149188;173414;24226;215
+P287;Produk Snack Nike 287;Snack;Nike;455940;589521;133581;92
+P288;Produk Minuman Aqua 288;Minuman;Aqua;123845;166547;42702;131
+P289;Produk Elektronik Xiaomi 289;Elektronik;Xiaomi;410398;515276;104878;489
+P290;Produk Snack Wardah 290;Snack;Wardah;366379;487018;120639;413
+P291;Produk Snack Nike 291;Snack;Nike;351748;402714;50966;133
+P292;Produk Minuman Nike 292;Minuman;Nike;88239;119601;31362;365
+P293;Produk Elektronik Indomaret 293;Elektronik;Indomaret;259017;267842;8825;446
+P294;Produk Fashion Indomaret 294;Fashion;Indomaret;202838;217941;15103;200
+P295;Produk Snack Chitato 295;Snack;Chitato;153901;243556;89655;467
+P296;Produk Rumah Tangga Samsung 296;Rumah Tangga;Samsung;76464;115419;38955;468
+P297;Produk Minuman Nike 297;Minuman;Nike;17363;28274;10911;126
+P298;Produk Kecantikan Nike 298;Kecantikan;Nike;475010;594755;119745;318
+P299;Produk Kecantikan Xiaomi 299;Kecantikan;Xiaomi;420490;561177;140687;126
+P300;Produk Fashion Chitato 300;Fashion;Chitato;467390;567146;99756;174

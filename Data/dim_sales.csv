@@ -1,0 +1,301 @@
+sales_id;sales_name;region;kota;target_bulanan;status
+S001;Tegar Sari;Sumatera;Lampung;50000000;Aktif
+S002;Ayu Permata;Jawa Barat;Cirebon;70000000;Non-Aktif
+S003;Eka Kusuma;Jawa Timur;Gresik;50000000;Non-Aktif
+S004;Budi Wulandari;Jawa Timur;Malang;65000000;Non-Aktif
+S005;Ayu Pratama;Jawa Timur;Malang;65000000;Non-Aktif
+S006;Fitri Aditya;Jawa Tengah;Yogyakarta;70000000;Non-Aktif
+S007;Irfan Hasan;Sulawesi;Manado;65000000;Aktif
+S008;Zahra Ramadhan;Jawa Timur;Gresik;40000000;Non-Aktif
+S009;Gita Kusuma;Jabodetabek;Bekasi;55000000;Aktif
+S010;Nadia Dewi;Jawa Barat;Bandung;45000000;Non-Aktif
+S011;Wulan Hasan;Sulawesi;Palu;55000000;Aktif
+S012;Candra Lestari;Kalimantan;Balikpapan;55000000;Aktif
+S013;Dewi Santoso;Kalimantan;Pontianak;65000000;Aktif
+S014;Jihan Dewi;Jawa Barat;Sukabumi;45000000;Aktif
+S015;Qori Fitri;Sulawesi;Palu;65000000;Aktif
+S016;Umar Kusuma;Sumatera;Palembang;70000000;Aktif
+S017;Galih Saputra;Jawa Timur;Gresik;55000000;Aktif
+S018;Jihan Pradana;Sumatera;Medan;40000000;Aktif
+S019;Eka Pratama;Jawa Timur;Gresik;70000000;Aktif
+S020;Raka Kurniawan;Jawa Tengah;Yogyakarta;40000000;Aktif
+S021;Wahyu Permata;Jawa Barat;Bandung;55000000;Aktif
+S022;Hendra Hakim;Jawa Barat;Bandung;70000000;Aktif
+S023;Eka Wijaya;Jawa Tengah;Magelang;65000000;Aktif
+S024;Andi Lestari;Sumatera;Lampung;65000000;Aktif
+S025;Eko Maharani;Sulawesi;Palu;65000000;Aktif
+S026;Indah Pradana;Sulawesi;Manado;45000000;Aktif
+S027;Mega Permata;Jabodetabek;Depok;60000000;Aktif
+S028;Kevin Wijaya;Sulawesi;Palu;60000000;Aktif
+S029;Jihan Anggraini;Sumatera;Padang;70000000;Aktif
+S030;Bayu Hasan;Jawa Barat;Cimahi;60000000;Aktif
+S031;Fajar Hasan;Jawa Timur;Gresik;55000000;Aktif
+S032;Karina Maharani;Sulawesi;Makassar;70000000;Aktif
+S033;Andi Saputra;Jawa Tengah;Solo;40000000;Aktif
+S034;Vina Lestari;Sulawesi;Manado;50000000;Aktif
+S035;Rani Pratama;Jawa Tengah;Solo;55000000;Aktif
+S036;Mega Wulandari;Jabodetabek;Depok;40000000;Non-Aktif
+S037;Lukman Nugraha;Sulawesi;Manado;50000000;Aktif
+S038;Erwin Wulandari;Jabodetabek;Tangerang;40000000;Aktif
+S039;Irfan Setiawan;Sulawesi;Makassar;40000000;Aktif
+S040;Budi Kusuma;Jawa Timur;Malang;65000000;Aktif
+S041;Dewi Ramadhan;Jawa Tengah;Magelang;50000000;Aktif
+S042;Sinta Wulandari;Sumatera;Padang;45000000;Aktif
+S043;Karina Ayu;Jabodetabek;Jakarta;55000000;Aktif
+S044;Putri Puspita;Jawa Tengah;Magelang;55000000;Aktif
+S045;Taufik Maharani;Jawa Tengah;Yogyakarta;50000000;Aktif
+S046;Gita Sari;Jabodetabek;Jakarta;70000000;Aktif
+S047;Andi Putri;Jawa Timur;Surabaya;40000000;Aktif
+S048;Lina Nugraha;Jawa Barat;Cirebon;70000000;Aktif
+S049;Galih Ayu;Jabodetabek;Depok;55000000;Aktif
+S050;Andi Ayu;Kalimantan;Balikpapan;60000000;Aktif
+S051;Indah Sari;Jawa Tengah;Yogyakarta;50000000;Aktif
+S052;Nanda Wulandari;Jawa Timur;Sidoarjo;40000000;Aktif
+S053;Sinta Kurniawan;Jawa Timur;Malang;50000000;Aktif
+S054;Fitri Lestari;Jabodetabek;Bogor;45000000;Aktif
+S055;Sari Santoso;Kalimantan;Banjarmasin;60000000;Aktif
+S056;Nanda Anggraini;Jabodetabek;Bogor;55000000;Aktif
+S057;Hendra Permata;Jawa Tengah;Semarang;40000000;Aktif
+S058;Bayu Ramadhan;Kalimantan;Pontianak;65000000;Aktif
+S059;Adit Hidayat;Kalimantan;Banjarmasin;50000000;Aktif
+S060;Kevin Pratama;Jawa Timur;Sidoarjo;40000000;Aktif
+S061;Dina Hidayat;Jawa Timur;Sidoarjo;40000000;Non-Aktif
+S062;Zahra Hasan;Kalimantan;Balikpapan;65000000;Aktif
+S063;Prita Hasan;Jabodetabek;Bogor;60000000;Aktif
+S064;Lina Lestari;Jawa Timur;Surabaya;55000000;Aktif
+S065;Ayu Ramadhan;Jabodetabek;Tangerang;45000000;Aktif
+S066;Lina Setiawan;Jawa Barat;Cirebon;65000000;Non-Aktif
+S067;Mega Pradana;Kalimantan;Banjarmasin;45000000;Aktif
+S068;Wahyu Santoso;Jawa Barat;Bandung;40000000;Non-Aktif
+S069;Dina Permata;Sumatera;Palembang;70000000;Aktif
+S070;Farah Saputra;Sumatera;Padang;45000000;Non-Aktif
+S071;Qori Rahma;Jawa Timur;Surabaya;65000000;Aktif
+S072;Lukman Hidayat;Sulawesi;Palu;55000000;Aktif
+S073;Mega Ramadhan;Sulawesi;Manado;50000000;Aktif
+S074;Bayu Maharani;Jawa Barat;Cimahi;40000000;Non-Aktif
+S075;Fajar Pradana;Kalimantan;Banjarmasin;55000000;Aktif
+S076;Hendra Kusuma;Jawa Timur;Gresik;55000000;Aktif
+S077;Dewi Nugroho;Sumatera;Padang;55000000;Aktif
+S078;Prita Ramadhan;Jawa Timur;Gresik;60000000;Aktif
+S079;Wahyu Nugraha;Jawa Tengah;Semarang;70000000;Aktif
+S080;Galih Wijaya;Jawa Barat;Bandung;65000000;Aktif
+S081;Indah Hakim;Sumatera;Medan;45000000;Aktif
+S082;Candra Santoso;Kalimantan;Pontianak;40000000;Aktif
+S083;Andi Ayu;Sumatera;Lampung;70000000;Aktif
+S084;Jihan Ramadhan;Jawa Tengah;Magelang;45000000;Aktif
+S085;Rani Setiawan;Jabodetabek;Bogor;65000000;Non-Aktif
+S086;Candra Aditya;Kalimantan;Pontianak;65000000;Aktif
+S087;Lukman Ayu;Jawa Barat;Cimahi;60000000;Aktif
+S088;Nanda Nugraha;Kalimantan;Balikpapan;70000000;Non-Aktif
+S089;Eko Anggraini;Jawa Barat;Sukabumi;70000000;Non-Aktif
+S090;Taufik Maharani;Jabodetabek;Bogor;60000000;Aktif
+S091;Eka Ayu;Sulawesi;Manado;40000000;Aktif
+S092;Mega Firmansyah;Jawa Timur;Gresik;55000000;Aktif
+S093;Nanda Pratama;Sumatera;Lampung;50000000;Aktif
+S094;Citra Pratama;Jabodetabek;Bekasi;50000000;Aktif
+S095;Maya Hakim;Sulawesi;Manado;45000000;Non-Aktif
+S096;Farah Lestari;Sulawesi;Makassar;45000000;Aktif
+S097;Galih Susilo;Jawa Barat;Cimahi;45000000;Aktif
+S098;Gita Anggraini;Jawa Barat;Bandung;45000000;Aktif
+S099;Jihan Wulandari;Jawa Timur;Surabaya;60000000;Aktif
+S100;Qori Susilo;Sumatera;Medan;50000000;Aktif
+S101;Dina Anggraini;Jawa Barat;Bandung;70000000;Aktif
+S102;Dimas Nugraha;Sumatera;Padang;40000000;Aktif
+S103;Dimas Saputra;Jawa Tengah;Semarang;65000000;Aktif
+S104;Wulan Ayu;Jabodetabek;Bogor;50000000;Non-Aktif
+S105;Qori Hakim;Sumatera;Medan;50000000;Non-Aktif
+S106;Gita Hasan;Kalimantan;Banjarmasin;55000000;Aktif
+S107;Candra Ayu;Sumatera;Medan;50000000;Aktif
+S108;Ayu Anggraini;Sumatera;Lampung;40000000;Non-Aktif
+S109;Wahyu Maharani;Sulawesi;Manado;70000000;Non-Aktif
+S110;Prita Ramadhan;Sumatera;Lampung;50000000;Non-Aktif
+S111;Lukman Sari;Jawa Barat;Cimahi;55000000;Aktif
+S112;Sinta Permata;Kalimantan;Balikpapan;45000000;Aktif
+S113;Hana Maharani;Jawa Barat;Bandung;60000000;Non-Aktif
+S114;Taufik Kurniawan;Sumatera;Medan;65000000;Aktif
+S115;Gita Saputra;Sumatera;Padang;55000000;Aktif
+S116;Lina Hidayat;Sumatera;Padang;65000000;Aktif
+S117;Joko Maharani;Jawa Tengah;Yogyakarta;65000000;Aktif
+S118;Maya Dewi;Jawa Timur;Malang;45000000;Aktif
+S119;Hendra Puspita;Sulawesi;Makassar;70000000;Aktif
+S120;Maya Hasan;Kalimantan;Balikpapan;70000000;Aktif
+S121;Fitri Wulandari;Jabodetabek;Bogor;65000000;Aktif
+S122;Adit Rahma;Sumatera;Lampung;60000000;Non-Aktif
+S123;Ayu Putri;Jawa Timur;Surabaya;55000000;Aktif
+S124;Wulan Saputra;Jawa Barat;Cirebon;40000000;Aktif
+S125;Oka Pratama;Sumatera;Palembang;65000000;Aktif
+S126;Dimas Saputra;Jawa Tengah;Magelang;45000000;Aktif
+S127;Hendra Nugroho;Jawa Timur;Gresik;55000000;Aktif
+S128;Irfan Anggraini;Jawa Barat;Sukabumi;45000000;Aktif
+S129;Irfan Hasan;Sumatera;Medan;55000000;Aktif
+S130;Raka Sari;Jabodetabek;Bogor;55000000;Aktif
+S131;Dina Puspita;Sumatera;Palembang;50000000;Aktif
+S132;Sari Hidayat;Sumatera;Lampung;40000000;Aktif
+S133;Kevin Dewi;Jawa Tengah;Semarang;60000000;Non-Aktif
+S134;Nanda Setiawan;Jabodetabek;Bekasi;70000000;Aktif
+S135;Ayu Maharani;Sulawesi;Makassar;65000000;Aktif
+S136;Erwin Rahma;Jabodetabek;Bekasi;40000000;Aktif
+S137;Andi Kusuma;Sulawesi;Manado;55000000;Aktif
+S138;Lina Wijaya;Kalimantan;Banjarmasin;60000000;Aktif
+S139;Rani Susilo;Jawa Barat;Cirebon;40000000;Aktif
+S140;Indah Fitri;Jabodetabek;Tangerang;60000000;Aktif
+S141;Andi Aditya;Jawa Barat;Sukabumi;70000000;Non-Aktif
+S142;Galih Maharani;Jawa Barat;Cimahi;65000000;Aktif
+S143;Farah Hakim;Jabodetabek;Depok;60000000;Non-Aktif
+S144;Raka Ayu;Sulawesi;Palu;70000000;Aktif
+S145;Ayu Fitri;Jawa Barat;Cirebon;50000000;Aktif
+S146;Oscar Nugroho;Jawa Barat;Cimahi;45000000;Aktif
+S147;Hana Hidayat;Sulawesi;Manado;55000000;Aktif
+S148;Nanda Wulandari;Sulawesi;Manado;70000000;Aktif
+S149;Raka Wijaya;Sumatera;Padang;45000000;Aktif
+S150;Joko Aditya;Jawa Timur;Gresik;60000000;Aktif
+S151;Budi Rahma;Kalimantan;Banjarmasin;50000000;Aktif
+S152;Candra Saputra;Sulawesi;Palu;70000000;Aktif
+S153;Putri Kurniawan;Jawa Timur;Gresik;55000000;Aktif
+S154;Citra Lestari;Jawa Tengah;Semarang;45000000;Aktif
+S155;Taufik Kusuma;Sumatera;Palembang;55000000;Aktif
+S156;Bayu Kusuma;Kalimantan;Balikpapan;60000000;Aktif
+S157;Galih Fitri;Jawa Barat;Bandung;65000000;Aktif
+S158;Hana Sari;Jawa Barat;Bandung;70000000;Aktif
+S159;Candra Wulandari;Kalimantan;Banjarmasin;70000000;Aktif
+S160;Raka Maharani;Jawa Timur;Surabaya;40000000;Aktif
+S161;Oka Pradana;Sulawesi;Manado;65000000;Aktif
+S162;Dimas Fitri;Jawa Barat;Bandung;45000000;Non-Aktif
+S163;Gita Lestari;Sulawesi;Palu;65000000;Aktif
+S164;Adit Dewi;Jawa Barat;Cimahi;50000000;Aktif
+S165;Fitri Ramadhan;Sumatera;Padang;45000000;Aktif
+S166;Raka Permata;Kalimantan;Pontianak;65000000;Non-Aktif
+S167;Raka Rahma;Jawa Timur;Surabaya;55000000;Aktif
+S168;Vina Rahma;Jawa Barat;Cirebon;55000000;Aktif
+S169;Oscar Pradana;Jabodetabek;Depok;50000000;Aktif
+S170;Rani Nugroho;Jawa Timur;Malang;45000000;Aktif
+S171;Adit Nugroho;Sumatera;Medan;40000000;Non-Aktif
+S172;Ayu Nugroho;Kalimantan;Banjarmasin;55000000;Aktif
+S173;Kevin Wulandari;Sulawesi;Makassar;70000000;Non-Aktif
+S174;Lina Kurniawan;Sumatera;Padang;70000000;Aktif
+S175;Wulan Hasan;Jawa Tengah;Magelang;70000000;Aktif
+S176;Erwin Nugraha;Kalimantan;Banjarmasin;65000000;Aktif
+S177;Oka Putri;Jawa Barat;Cirebon;60000000;Aktif
+S178;Fajar Maharani;Kalimantan;Banjarmasin;55000000;Aktif
+S179;Erwin Hakim;Sulawesi;Makassar;45000000;Aktif
+S180;Sinta Wijaya;Kalimantan;Banjarmasin;70000000;Aktif
+S181;Yoga Lestari;Jabodetabek;Bekasi;45000000;Aktif
+S182;Joko Hakim;Jawa Barat;Bandung;45000000;Non-Aktif
+S183;Rani Sari;Jabodetabek;Jakarta;50000000;Aktif
+S184;Sinta Ramadhan;Jawa Tengah;Solo;70000000;Aktif
+S185;Zahra Dewi;Kalimantan;Balikpapan;50000000;Aktif
+S186;Lukman Lestari;Jawa Tengah;Semarang;65000000;Non-Aktif
+S187;Jihan Kurniawan;Jawa Tengah;Semarang;60000000;Aktif
+S188;Kevin Lestari;Sumatera;Medan;60000000;Aktif
+S189;Nadia Maharani;Kalimantan;Balikpapan;60000000;Aktif
+S190;Sari Kurniawan;Sulawesi;Manado;50000000;Aktif
+S191;Nanda Ramadhan;Sulawesi;Palu;40000000;Aktif
+S192;Nanda Pradana;Sulawesi;Manado;65000000;Non-Aktif
+S193;Umar Hidayat;Sulawesi;Palu;65000000;Aktif
+S194;Gita Hidayat;Jawa Barat;Sukabumi;55000000;Aktif
+S195;Jihan Pratama;Jawa Timur;Malang;70000000;Aktif
+S196;Jihan Nugroho;Jabodetabek;Jakarta;60000000;Aktif
+S197;Nanda Nugraha;Jawa Timur;Malang;45000000;Aktif
+S198;Joko Pratama;Kalimantan;Pontianak;60000000;Non-Aktif
+S199;Qori Rahma;Jawa Timur;Gresik;70000000;Aktif
+S200;Eko Puspita;Sulawesi;Makassar;45000000;Non-Aktif
+S201;Qori Anggraini;Jawa Barat;Cirebon;50000000;Aktif
+S202;Karina Nugraha;Jawa Barat;Sukabumi;65000000;Aktif
+S203;Dimas Pradana;Jawa Barat;Cimahi;50000000;Aktif
+S204;Maya Kurniawan;Kalimantan;Pontianak;40000000;Aktif
+S205;Umar Hasan;Jawa Tengah;Magelang;55000000;Aktif
+S206;Dewi Wijaya;Sumatera;Padang;70000000;Aktif
+S207;Irfan Maharani;Jabodetabek;Tangerang;60000000;Non-Aktif
+S208;Vina Setiawan;Jawa Tengah;Yogyakarta;40000000;Non-Aktif
+S209;Ayu Maharani;Kalimantan;Pontianak;70000000;Aktif
+S210;Umar Pradana;Sumatera;Lampung;40000000;Aktif
+S211;Joko Sari;Jabodetabek;Bogor;45000000;Aktif
+S212;Fitri Maharani;Jawa Tengah;Solo;45000000;Aktif
+S213;Hana Santoso;Jawa Tengah;Semarang;50000000;Non-Aktif
+S214;Eka Saputra;Sulawesi;Manado;60000000;Aktif
+S215;Erwin Puspita;Sulawesi;Palu;65000000;Aktif
+S216;Farah Kusuma;Jabodetabek;Jakarta;55000000;Aktif
+S217;Wulan Setiawan;Kalimantan;Banjarmasin;60000000;Aktif
+S218;Gita Pratama;Sumatera;Palembang;70000000;Aktif
+S219;Taufik Nugraha;Kalimantan;Balikpapan;40000000;Non-Aktif
+S220;Kevin Ayu;Jawa Tengah;Solo;40000000;Aktif
+S221;Candra Dewi;Jawa Barat;Cimahi;55000000;Aktif
+S222;Kevin Nugroho;Jawa Tengah;Yogyakarta;55000000;Aktif
+S223;Jihan Ramadhan;Sulawesi;Palu;45000000;Aktif
+S224;Bella Santoso;Jawa Timur;Surabaya;70000000;Aktif
+S225;Mega Dewi;Sulawesi;Makassar;40000000;Aktif
+S226;Citra Wulandari;Sulawesi;Palu;70000000;Non-Aktif
+S227;Candra Wijaya;Jawa Tengah;Yogyakarta;40000000;Aktif
+S228;Hendra Santoso;Jawa Tengah;Magelang;65000000;Aktif
+S229;Bella Putri;Jawa Timur;Gresik;60000000;Non-Aktif
+S230;Nadia Ramadhan;Jawa Barat;Cirebon;45000000;Non-Aktif
+S231;Dimas Kusuma;Jawa Tengah;Magelang;60000000;Aktif
+S232;Jihan Hasan;Jawa Barat;Cimahi;40000000;Aktif
+S233;Wulan Putri;Jawa Barat;Cirebon;45000000;Aktif
+S234;Lukman Sari;Sumatera;Medan;65000000;Aktif
+S235;Indah Santoso;Sumatera;Padang;50000000;Aktif
+S236;Bayu Hakim;Jabodetabek;Bekasi;65000000;Aktif
+S237;Bella Ramadhan;Jabodetabek;Bekasi;50000000;Aktif
+S238;Indah Kurniawan;Jawa Barat;Bandung;40000000;Aktif
+S239;Bayu Putri;Kalimantan;Pontianak;45000000;Aktif
+S240;Oscar Ramadhan;Sumatera;Lampung;65000000;Aktif
+S241;Ayu Susilo;Jawa Timur;Surabaya;65000000;Non-Aktif
+S242;Rani Saputra;Kalimantan;Pontianak;55000000;Aktif
+S243;Wahyu Setiawan;Sumatera;Lampung;40000000;Aktif
+S244;Hana Kurniawan;Jawa Barat;Sukabumi;60000000;Aktif
+S245;Gita Susilo;Sumatera;Medan;45000000;Aktif
+S246;Bella Santoso;Jawa Timur;Malang;50000000;Aktif
+S247;Qori Hidayat;Jawa Barat;Bandung;60000000;Aktif
+S248;Karina Anggraini;Jabodetabek;Tangerang;70000000;Aktif
+S249;Oscar Ramadhan;Sulawesi;Manado;65000000;Aktif
+S250;Nanda Maharani;Jawa Timur;Sidoarjo;55000000;Aktif
+S251;Yoga Aditya;Kalimantan;Banjarmasin;60000000;Aktif
+S252;Indah Maharani;Jawa Barat;Bandung;40000000;Non-Aktif
+S253;Raka Pratama;Jabodetabek;Bogor;50000000;Aktif
+S254;Fitri Permata;Jawa Tengah;Yogyakarta;45000000;Aktif
+S255;Zahra Hidayat;Kalimantan;Pontianak;45000000;Non-Aktif
+S256;Rani Hakim;Jawa Tengah;Yogyakarta;40000000;Non-Aktif
+S257;Joko Saputra;Sulawesi;Makassar;70000000;Non-Aktif
+S258;Putri Wulandari;Jawa Tengah;Magelang;70000000;Aktif
+S259;Dimas Wijaya;Kalimantan;Pontianak;40000000;Aktif
+S260;Lukman Pradana;Jawa Tengah;Solo;40000000;Aktif
+S261;Candra Susilo;Sulawesi;Makassar;70000000;Aktif
+S262;Bayu Maharani;Sulawesi;Manado;70000000;Aktif
+S263;Indah Hidayat;Jawa Barat;Cirebon;70000000;Aktif
+S264;Lina Nugraha;Jawa Timur;Sidoarjo;50000000;Aktif
+S265;Wahyu Permata;Jabodetabek;Tangerang;55000000;Non-Aktif
+S266;Oscar Lestari;Sumatera;Lampung;45000000;Aktif
+S267;Zahra Permata;Sulawesi;Makassar;55000000;Aktif
+S268;Fitri Rahma;Jawa Barat;Bandung;60000000;Aktif
+S269;Budi Ramadhan;Jawa Tengah;Solo;45000000;Non-Aktif
+S270;Maya Rahma;Jawa Barat;Sukabumi;50000000;Non-Aktif
+S271;Bella Sari;Sumatera;Palembang;40000000;Aktif
+S272;Zahra Saputra;Jawa Timur;Sidoarjo;40000000;Aktif
+S273;Fitri Permata;Jawa Timur;Surabaya;40000000;Aktif
+S274;Citra Rahma;Kalimantan;Pontianak;45000000;Aktif
+S275;Rani Saputra;Jabodetabek;Bogor;65000000;Non-Aktif
+S276;Oka Aditya;Jabodetabek;Depok;55000000;Aktif
+S277;Rani Puspita;Sumatera;Lampung;55000000;Aktif
+S278;Bella Wulandari;Jawa Tengah;Solo;60000000;Aktif
+S279;Gita Sari;Jawa Timur;Sidoarjo;55000000;Aktif
+S280;Adit Fitri;Jawa Barat;Cirebon;45000000;Aktif
+S281;Vina Aditya;Jawa Barat;Cirebon;65000000;Aktif
+S282;Candra Ramadhan;Jabodetabek;Jakarta;50000000;Aktif
+S283;Erwin Puspita;Jawa Tengah;Solo;50000000;Aktif
+S284;Raka Wulandari;Jawa Tengah;Magelang;50000000;Aktif
+S285;Candra Saputra;Jabodetabek;Depok;65000000;Aktif
+S286;Karina Sari;Jawa Tengah;Yogyakarta;55000000;Aktif
+S287;Citra Saputra;Jawa Barat;Sukabumi;45000000;Aktif
+S288;Umar Saputra;Sumatera;Lampung;50000000;Aktif
+S289;Oka Nugroho;Jawa Tengah;Semarang;45000000;Aktif
+S290;Rani Hasan;Sumatera;Padang;60000000;Aktif
+S291;Farah Kurniawan;Sumatera;Padang;65000000;Aktif
+S292;Citra Wulandari;Jawa Barat;Sukabumi;50000000;Aktif
+S293;Nanda Nugroho;Jawa Tengah;Magelang;55000000;Aktif
+S294;Dina Sari;Sumatera;Lampung;60000000;Aktif
+S295;Wahyu Anggraini;Sulawesi;Palu;65000000;Aktif
+S296;Eko Putri;Sumatera;Palembang;40000000;Non-Aktif
+S297;Dimas Susilo;Jawa Barat;Sukabumi;50000000;Aktif
+S298;Tegar Dewi;Jawa Timur;Malang;65000000;Aktif
+S299;Lukman Permata;Jawa Barat;Sukabumi;60000000;Aktif
+S300;Erwin Sari;Jabodetabek;Bekasi;55000000;Non-Aktif
